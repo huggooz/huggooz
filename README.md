@@ -1,20 +1,27 @@
 <div align="center">
 
-# 👨‍💻 Victor Hugo Gonçalves
+# 👋 Olá, eu sou Victor Hugo Gonçalves
 
-Desenvolvedor Full Stack
+### Desenvolvedor Full Stack | Vue.js • TypeScript • PHP • Java • Oracle
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+Atualmente atuando na **Teknisa**, participando da modernização do ecossistema TecFood através da migração de sistemas legados para uma arquitetura baseada em **Vue.js, TypeScript e PHP**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-gonçalves-a8aa9a258/)
+<br>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge\&logo=vue.js\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+<br>
+
+<a href="https://www.linkedin.com/in/victor-hugo-gonçalves-a8aa9a258/">
+<img src="https://img.shields.io/badge/LinkedIn-Victor_Hugo_Gonçalves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -22,28 +29,85 @@ Desenvolvedor Full Stack
 
 ## 🚀 Sobre mim
 
-Atualmente trabalho na **Teknisa** com a conversão de telas legadas para uma nova plataforma
-(Next + Vue.js + PHP), focando em padrões limpos e arquitetura nativa do framework.
-Tenho experiência com integrações REST, modelagem de banco Oracle/SQL,
-e desenvolvimento de APIs com Node.js e Express.
+Sou Desenvolvedor Full Stack com foco em desenvolvimento web e modernização de aplicações corporativas.
 
-Paralelamente, curso a FATEC onde aprofundo conhecimentos em estrutura de dados e algoritmos.
-Busco constantemente evoluir como desenvolvedor, entregando código legível,
-de fácil manutenção e alinhado com as melhores práticas do mercado.
+Atualmente trabalho na **Teknisa**, contribuindo na evolução do sistema **TecFood**, realizando a conversão de módulos legados para uma nova arquitetura baseada em **Vue.js, TypeScript, PHP e Oracle**.
+
+Além da experiência profissional, desenvolvo projetos próprios envolvendo:
+
+* 🌐 Desenvolvimento Web Full Stack
+* 📱 Aplicações Mobile com React Native
+* 🔥 Firebase e Cloud Services
+* 🔗 Integrações REST APIs
+* 🗄️ Modelagem e otimização de bancos de dados
+* ☁️ Conceitos de Cloud Computing e AWS
+
+Também sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, onde aprofundo conhecimentos em algoritmos, estruturas de dados e arquitetura de software.
 
 ---
 
-## 📊 Estatísticas
+## 🛠️ Tecnologias
+
+### Front-end
+
+* Vue.js
+* Angular
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+
+### Back-end
+
+* PHP
+* Node.js
+* Express
+* Java
+
+### Banco de Dados
+
+* Oracle Database
+* SQL
+
+### Mobile
+
+* React Native
+
+### Ferramentas
+
+* Git
+* GitLab
+* VS Code
+* Postman
+* Firebase
+* AWS
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huggooz&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huggooz&layout=compact&theme=dark&hide_border=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=huggooz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huggooz&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+## 🎯 Objetivos
+
+* Evoluir continuamente como Engenheiro de Software
+* Aprofundar conhecimentos em arquitetura e sistemas distribuídos
+* Contribuir em projetos de impacto real para empresas e usuários
+* Desenvolver soluções escaláveis, performáticas e de fácil manutenção
+
+---
+
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-gonçalves-a8aa9a258/)
+💼 LinkedIn:
+https://www.linkedin.com/in/victor-hugo-gonçalves-a8aa9a258/
+
+📧 Aberto para networking, oportunidades e colaboração em projetos.
