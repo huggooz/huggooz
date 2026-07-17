@@ -1,10 +1,11 @@
-# 👋 Olá, sou Victor Hugo
+<div align="center">
 
-Desenvolvedor Full Stack Júnior na **Teknisa** — trabalho com
-modernização de sistemas legados, construindo interfaces modernas
-com Vue.js e TypeScript sobre um backend PHP robusto.
+# 👨‍💻 Victor Hugo Gonçalves
 
-## 🛠️ Tecnologias
+Desenvolvedor Full Stack Júnior na **Teknisa**
+Especializado em modernização de sistemas legados — migrando plataformas Angular/Zeedhi
+para arquiteturas modernas com Vue.js, TypeScript e PHP.
+Estudante de Estrutura de Dados na FATEC | Apaixonado por código limpo e boas práticas.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -16,11 +17,36 @@ com Vue.js e TypeScript sobre um backend PHP robusto.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-gonçalves-a8aa9a258/)
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+Atualmente trabalho na **Teknisa** com a conversão de telas legadas para uma nova plataforma
+(Next + Vue.js + PHP), focando em padrões limpos e arquitetura nativa do framework.
+Tenho experiência com integrações REST, modelagem de banco Oracle/SQL,
+e desenvolvimento de APIs com Node.js e Express.
+
+Paralelamente, curso a FATEC onde aprofundo conhecimentos em estrutura de dados e algoritmos.
+Busco constantemente evoluir como desenvolvedor, entregando código legível,
+de fácil manutenção e alinhado com as melhores práticas do mercado.
+
+---
+
 ## 📊 Estatísticas
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huggooz&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huggooz&layout=compact&theme=default&hide_border=true)
+<div align="center">
+
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huggooz&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huggooz&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-gonçalves-a8aa9a258/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-gonçalves-a8aa9a258/)
