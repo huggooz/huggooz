@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Victor Hugo Gonçalves
+# Muito prazer, Victor Hugo Gonçalves
 
 ### Desenvolvedor Full Stack | Vue.js • TypeScript • PHP • Java • Oracle
 
@@ -27,7 +27,7 @@ Atualmente atuando na **Teknisa**, participando da modernização do ecossistema
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou Desenvolvedor Full Stack com foco em desenvolvimento web e modernização de aplicações corporativas.
 
@@ -35,18 +35,18 @@ Atualmente trabalho na **Teknisa**, contribuindo na evolução do sistema **TecF
 
 Além da experiência profissional, desenvolvo projetos próprios envolvendo:
 
-* 🌐 Desenvolvimento Web Full Stack
-* 📱 Aplicações Mobile com React Native
-* 🔥 Firebase e Cloud Services
-* 🔗 Integrações REST APIs
-* 🗄️ Modelagem e otimização de bancos de dados
-* ☁️ Conceitos de Cloud Computing e AWS
+* Desenvolvimento Web Full Stack
+* Aplicações Mobile com React Native
+* Firebase e Cloud Services
+* Integrações REST APIs
+* Modelagem e otimização de bancos de dados
+* Conceitos de Cloud Computing e AWS
 
 Também sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, onde aprofundo conhecimentos em algoritmos, estruturas de dados e arquitetura de software.
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Front-end
 
@@ -84,7 +84,7 @@ Também sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, on
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -96,7 +96,7 @@ Também sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, on
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 * Evoluir continuamente como Engenheiro de Software
 * Aprofundar conhecimentos em arquitetura e sistemas distribuídos
@@ -105,9 +105,9 @@ Também sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, on
 
 ---
 
-## 📬 Contato
+## Contato
 
-💼 LinkedIn:
+LinkedIn:
 https://www.linkedin.com/in/victor-hugo-gonçalves-a8aa9a258/
 
-📧 Aberto para networking, oportunidades e colaboração em projetos.
+Aberto para networking, oportunidades e colaboração em projetos.
